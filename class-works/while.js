@@ -8,8 +8,8 @@
  *
  */
 
-let i = 1;
-while (i <= 10) {
-  console.log("This is how while loop structured", i);
-  i++;
+let z = 1;
+while (z <= 10) {
+  console.log("This is how while loop structured", z);
+  z++;
 }
